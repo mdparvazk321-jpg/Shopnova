@@ -1,0 +1,6 @@
+{
+  "name": "ShopNova BD",
+  "description": "Multi-vendor e-commerce marketplace for Bangladesh with flash sales, live order tracking, returns, seller tools, and admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
